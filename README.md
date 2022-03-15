@@ -1,9 +1,3 @@
-# The Kygek Foundation
-
-**_Improving lives, restoring humanity_**
-
----
-
 **Welcome to the official website of The Kygek Foundation!**
 
 In this website/GitHub repository, you will find information about our organization.
