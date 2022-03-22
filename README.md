@@ -2,6 +2,16 @@
 
 In this website/GitHub repository, you will find information about our organization.
 
+## Latest Information
+
+- [We're Looking For a New Leader of KygekTeam](/news/looking-for-new-kygekteam-leader.md)
+
+If you have an GitHub account, you can follow The Kygek Foundation GitHub organization to get updates of our latest repository activities in your [GitHub homepage](https://github.com) (see image below).
+
+![Screenshot](/images/Screenshot%202022-03-22%20173542.png)
+
+---
+
 ## History
 
 **The Kygek Foundation** (also known as **Kygek Foundation**; shortened as **TKF**) was founded on 2021 as a parent organization of our only current child organization, KygekTeam. We founded TKF to expand our services to not only towards software development areas, but also towards other areas.
