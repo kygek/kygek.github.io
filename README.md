@@ -14,7 +14,7 @@ If you have an GitHub account, you can follow The Kygek Foundation GitHub organi
 
 ## History
 
-**The Kygek Foundation** (also known as **Kygek Foundation**; shortened as **TKF**) was founded on 2021 as a parent organization of our only current child organization, KygekTeam. We founded TKF to expand our services to not only towards software development areas, but also towards other areas.
+**The Kygek Foundation** (also known as **Kygek Foundation**; shortened as **TKF**) is founded on late-2021 as a parent organization of several organizations lead by KygekDev, mainly KygekTeam. We founded TKF to expand our services to not only towards software development areas, but also towards other areas.
 
 ## Vision & Mission
 
