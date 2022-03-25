@@ -30,11 +30,12 @@ We also realized that the current exponential technological advancements causes 
 
 ### Software Development
 
-- [KygekTeam](https://github.com/KygekTeam)
+- [KygekTeam International](https://github.com/KygekTeam)
 
 ### Minecraft Builds
 
-- Kygek Development (Coming Soon)
+- Kygek Development
+  - [Country Build Project (CBP)](https://discord.gg/FrDePMjPBR) - Private project
 
 ## The Future
 
