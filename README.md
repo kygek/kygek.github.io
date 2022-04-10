@@ -4,7 +4,7 @@ In this website/GitHub repository, you will find information about our organizat
 
 ## Latest Information
 
-- [We're Looking For a New Leader of KygekTeam](/news/looking-for-new-kygekteam-leader.md)
+- [We're Looking For New Maintainers of KygekTeam Projects](/news/looking-for-new-kygekteam-maintainers.md)
 
 If you have an GitHub account, you can follow The Kygek Foundation GitHub organization to get updates of our latest repository activities in your [GitHub homepage](https://github.com) (see image below).
 
