@@ -12,10 +12,6 @@ If you have an GitHub account, you can follow The Kygek Foundation GitHub organi
 
 ---
 
-## History
-
-**The Kygek Foundation** (also known as **Kygek Foundation**; shortened as **TKF**) is founded on late-2021 as a parent organization of several organizations lead by KygekDev, mainly KygekTeam. We founded TKF to expand our services to not only towards software development areas, but also towards other areas.
-
 ## Vision & Mission
 
 > **_Improving lives_**
@@ -26,11 +22,16 @@ We realized many people are still struggling even with resources from the Intern
 
 We also realized that the current exponential technological advancements causes many people to become more individualized. Prolonged individualism can cause mental and physical health issues, such as anxiety, depression, and other diseases or disorders. Therefore, our secondary goal is to encourage people to interact with each other, exchange ideas, build projects, as well as improve characther together as a team.
 
+## History
+
+**The Kygek Foundation** (also known as **Kygek Foundation**; shortened as **TKF**) is founded on late-2021 as a parent organization of several organizations lead by KygekDev, mainly KygekTeam. We founded TKF to expand our services to not only towards software development areas, but also towards other areas.
+
 ## Our Services
 
 ### Software Development
 
-- [KygekTeam International](https://github.com/KygekTeam)
+- ~~[KygekTeam International](https://github.com/KygekTeam)~~ - Currently inactive
+- [PocketMine School](https://github.com/PocketMine-School) - In collaboration with [UltraSoft](https://github.com/TeamUltraSoft)
 
 ### Minecraft Builds
 
