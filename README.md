@@ -36,7 +36,7 @@ We also realized that the current exponential technological advancements causes 
 ### Minecraft Builds
 
 - Kygek Development
-  - [Country Build Project (CBP)](https://discord.gg/FrDePMjPBR) - Private project
+  - [Country Build Project (CBP)](https://foundation.kygek.team/CBP/) - Private project
 
 ## The Future
 
