@@ -24,7 +24,7 @@ We also realized that the current exponential technological advancements causes 
 
 ## History
 
-**The Kygek Foundation** (also known as **Kygek Foundation**; shortened as **TKF**) is founded on late-2021 as a parent organization of several organizations lead by KygekDev, mainly KygekTeam. We founded TKF to expand our services to not only towards software development areas, but also towards other areas.
+**The Kygek Foundation** (also known as **Kygek Foundation**; shortened as **TKF**) is founded on late 2021 as a parent organization of several organizations lead by KygekDev, mainly KygekTeam. We founded TKF to expand our services to not only towards software development areas, but also towards other areas.
 
 ## Our Services
 
