@@ -1,5 +1,6 @@
 title: The Kygek Foundation
 description: Improving lives, restoring humanity
+baseurl: /web
 
 plugins:
   - jekyll-remote-theme
