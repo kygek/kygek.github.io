@@ -1,4 +1,7 @@
-theme: jekyll-theme-tactile
-
 title: The Kygek Foundation
 description: Improving lives, restoring humanity
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: aksakalli/jekyll-doc-theme
