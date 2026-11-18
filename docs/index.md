@@ -6,7 +6,7 @@ In this website, you will find information about our organization.
 
 **The Kygek Foundation has been soft-launched on 19 July 2023!**
 
-After exactly 3 years since KygekDev founded Kygek Development (where its foundation day was declared to be 19 July 2020 when KygekDev released his first PocketMine-MP plugin on Poggit), KygekDev soft-launched The Kygek Foundation in an effort to improve education, wellness, traditions and standards of the society, especially those who are in need. We're preparing this operation to be started in the near future, starting from the Southeast Asia region. Moreover, we're preparing to cooperate with other institutions and organizations to boost our operation to be more effective towards the societly as a whole, and we're planning to start this operation from the IT sector.
+After exactly 3 years since Kygekraqmak (also known as KygekDev or simply Kygek) founded Kygek Development (where its foundation day was declared to be 19 July 2020 when Kygek released his first PocketMine-MP plugin on Poggit), Kygek soft-launched The Kygek Foundation in an effort to improve education, wellness, traditions and standards of the society, especially those who are in need. We're preparing this operation to be started in the near future, starting from the Southeast Asia region. Moreover, we're preparing to cooperate with other institutions and organizations to boost our operation to be more effective towards the societly as a whole, and we're planning to start this operation from the IT sector.
 
 The only way to make this operation a huge success is through cooperation, collaboration and collectivism. We would fully respect any of your support towards our organization especially for our team members which are still under planning.
 
@@ -24,9 +24,9 @@ We also realized that the current exponential technological advancements causes 
 
 ## History
 
-**The Kygek Foundation** (also known as **Kygek Foundation**; shortened as **TKF**) is founded on late 2021 as a parent organization of several organizations lead by KygekDev, mainly KygekTeam. We founded TKF to expand our services to not only towards software development areas, but also towards other areas.
+**The Kygek Foundation** (also known as **Kygek Foundation**; shortened as **TKF**) is founded on late 2021 as a parent organization of several organizations lead by Kygek, mainly KygekTeam. We founded TKF to expand our services to not only towards software development areas, but also towards other areas.
 
-After extensive research, we decided to extend the scope of The Kygek Foundation to be a regional organization. As a part of our mission, we are planning to cooperate with other organizations, institutions, universities, schools and communities, which would hopefully help The Kygek Foundation to become an innovative and cooperative organization to make this world a better place for the people. The Kygek Foundation have been soft-launched on 19 July 2023 by KygekDev and is planned to be officially launched in the near future after it is ready to do so.
+After extensive research, we decided to extend the scope of The Kygek Foundation to be a regional organization. As a part of our mission, we are planning to cooperate with other organizations, institutions, universities, schools and communities, which would hopefully help The Kygek Foundation to become an innovative and cooperative organization to make this world a better place for the people. The Kygek Foundation have been soft-launched on 19 July 2023 by Kygek and is planned to be officially launched in the near future after it is ready to do so.
 
 ## Our Services
 
