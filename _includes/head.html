@@ -1,0 +1,26 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | relative_url }}">
+
+    <link rel="shortcut icon" href="{{ "/favicon.ico?1" | relative_url }}">
+    {% seo %}
+
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}" />
+
+    <script>
+        if (window.location.hostname === "kygek.github.io") {
+            window.location.replace(
+                "https://foundation.kygek.cc" +
+                window.location.pathname +
+                window.location.search +
+                window.location.hash
+            );
+        }
+    </script>
+    <link rel="canonical" href="https://foundation.kygek.cc{{ page.url }}">
+
+</head>

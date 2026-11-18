@@ -5,3 +5,5 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: aksakalli/jekyll-doc-theme
+
+git_address: https://github.com/kygek
